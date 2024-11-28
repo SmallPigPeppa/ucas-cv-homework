@@ -10,7 +10,7 @@
 python q1.py
 ```
 
-## 功能1：`q1.py`
+## 功能1：`q2.py`
 将 `hp_cover.jpg` 覆盖到 `cv_desk.png`，并保存为 `q2_final_result.png`。
 
 ### 使用：
